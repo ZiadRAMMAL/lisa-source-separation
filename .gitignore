@@ -1,0 +1,9 @@
+# Données et modèles locaux
+data/
+*.h5
+*.pth
+
+# Environnements virtuels
+venv/
+__pycache__/
+.ipynb_checkpoints/
